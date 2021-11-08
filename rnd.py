@@ -1,6 +1,5 @@
 from random import randint
 from extender import *
-import numpy as np
 
 def Rnd(size):
     indexer = 0
